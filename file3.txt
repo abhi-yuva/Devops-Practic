@@ -1,4 +1,8 @@
 this is file3
 im vidya
+<<<<<<< HEAD
 jenkins
 ansible
+=======
+jenkins cicd
+>>>>>>> fd8983edd714aa978ba67289f194f88354b3e791
