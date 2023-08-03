@@ -1,6 +1,4 @@
-this is file2
-im learning devops
-task
 to show the difference between git fetch and git pull
 explaining about git push
 added branch protection
+
